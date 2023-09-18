@@ -76,4 +76,4 @@ This portfolio website serves as a showcase of my skills, projects, and experien
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as per the license terms.
+This project is licensed under the [MIT License](https://www.bcbe.org/cms/lib/AL01901374/Centricity/Domain/1760/Coping%20Skills%20Toolkit.pdf). Feel free to use and modify the code as per the license terms.
