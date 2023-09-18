@@ -1,6 +1,7 @@
 # star-of-the-death
 
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Image & gif of the star of the death
+](https://github.com/AndyMagwayer/star-of-the-death/blob/main/star-of-the-death.gif)
 
 ## Deploy:https://star-of-the-death-magamed.netlify.app/
 
