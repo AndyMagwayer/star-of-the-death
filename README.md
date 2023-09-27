@@ -3,7 +3,7 @@
 ![Image & gif of the star of the death
 ](https://github.com/AndyMagwayer/star-of-the-death/blob/main/star-of-the-death.gif)
 
-## Deploy:https://star-of-the-death-magamed.netlify.app/
+# Deploy:https://star-of-the-death-magamed.netlify.app/
 
 Apologies for the confusion. Here is an updated version of the README.md file with a section for the code:
 
