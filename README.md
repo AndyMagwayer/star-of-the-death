@@ -7,7 +7,7 @@
 
 Apologies for the confusion. Here is an updated version of the README.md file with a section for the code:
 
-# Star of the Death
+## Star of the Death
 
 
 Star of the Death is a simple text-based game where the player navigates through a space ship, encounters various obstacles, and must make decisions to survive.
